@@ -9,7 +9,7 @@ improvement, in essence doing things effectively and efficiently. I am motivated
 
 I have also recently graduated with a Data Scientist BootCamp certificate from Hyperion Developmen and I am looking for graduate opportunities to showcase my skills and gain experience relevant to data science.
 
-"Link to my HyperionDev Data Scientist BootCamp portifolio":  
+"Link to my HyperionDev Data Scientist BootCamp portifolio": https://www.hyperiondev.com/portfolio/69783/
 
 # Contact
 
