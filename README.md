@@ -66,4 +66,3 @@ LinkedIn: linkedin.com/in/prince-mofokeng
 
 #PERSONAL PROJECTS
 Capstone and Personal Projects I have worked on Since I have first started studying Data Science<br>
-LinkedIn Profile:
